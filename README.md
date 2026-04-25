@@ -64,5 +64,5 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ## Author
-Your Name  
-GitHub: https://github.com/yourusername
+Chandra Akash Kiran
+GitHub: https://github.com/chandraAkiran
