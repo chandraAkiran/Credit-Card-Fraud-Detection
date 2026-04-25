@@ -3,6 +3,10 @@
 ## Overview
 This project uses Machine Learning to detect fraudulent credit card transactions using Python and the Credit Card Fraud dataset.
 
+Dataset too large for GitHub (>100MB).
+Download dataset here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Tools Used
 - Python  
 - Pandas  
