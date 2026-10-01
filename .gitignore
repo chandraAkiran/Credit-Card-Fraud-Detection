@@ -1,0 +1,22 @@
+# Dataset
+data/*.csv
+*.csv
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
