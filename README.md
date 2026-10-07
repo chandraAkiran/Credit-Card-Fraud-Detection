@@ -10,6 +10,16 @@ selection, threshold optimization, final evaluation on an untouched test
 set, model persistence, and an interactive Streamlit dashboard for
 single and batch transaction analysis.
 
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-cakiran.streamlit.app)
+
+👉 **Live App:** https://credit-card-fraud-detection-cakiran.streamlit.app
+
+> Try the deployed application to analyze individual transactions,
+> upload batch CSV files, view fraud probabilities, and explore
+> fraud-risk analytics.
+
 ## 🎯 Project Objective
 
 Credit-card fraud detection is a highly imbalanced binary-classification
